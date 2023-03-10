@@ -1,0 +1,71 @@
+.Header {
+    size: 400px;
+    background-image: url(/Images/nasa-1lfI7wkGWZ4-unsplash.jpg);
+    padding: 100px;
+}
+
+.Header h1 {
+    color: white;
+    text-align: center;
+    font-size: 90px;
+    font-weight: 600;
+    font-family: 'Playfair Display', sans-serif;
+    text-shadow: 8px 8px #070727;
+    letter-spacing: 10px;
+}
+
+.Header p {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: 400;
+    text-shadow: 5px 5px #070727;
+    letter-spacing: 5px;
+}
+
+.Text {
+    height: 1000px;
+    width: auto;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 80px;
+    background: linear-gradient(180deg, #09173f 0%, #00031E 100%)
+}
+
+.Text h2 {
+    color: white;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 5px;
+}
+
+.Text p {
+    color: white;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.Text ol {
+    color: white;
+    font-family: 'Lora', sans-serif;
+    font-weight: 400;
+    padding: 10px;
+    font-size: 18px;
+    letter-spacing: 1.5px;
+}
+
+.Text ul {
+    padding: 10px;
+    letter-spacing: 1.5px;
+}
+
+.Text span {
+    font-weight: 600;
+    color: #4d85da;
+    letter-spacing: 1.5px;
+    font-family: 'Lora', sans-serif;
+}
